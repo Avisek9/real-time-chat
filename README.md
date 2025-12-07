@@ -53,7 +53,8 @@ Make sure you have the following installed:
 ### Backend and Application Setup
 
 git clone https://github.com/Avisek9/real-time-chat.git
-cd your-project-folder  
+
+cd real-time-chat
 mvn clean install  
 mvn spring-boot:run  
 
